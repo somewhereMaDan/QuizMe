@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469967211937",
+    "project_id": "kwizking-f69c3",
+    "storage_bucket": "kwizking-f69c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469967211937:android:792e04fa0de4d6d3104fe0",
+        "android_client_info": {
+          "package_name": "com.example.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469967211937-ahk9s9m7nevjeg896a3arke4oi1pel6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlq7h1KNkujZGpoCaRXAwg0XiqcMxd-iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469967211937-ahk9s9m7nevjeg896a3arke4oi1pel6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
